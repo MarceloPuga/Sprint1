@@ -1,0 +1,244 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #5E503F;
+}
+
+header {
+    background-color: #D2B48C;
+    width: 200vh;
+    height: 7vh;
+}
+
+.align-logo {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+nav {
+    padding: 2vh 165vh 0vh 2vh;
+}
+
+nav a {
+
+    text-decoration: none;
+    color: black;
+    font-size: large;
+   
+}
+nav a:hover{
+
+    color: white;
+}
+
+header img {
+    width: 7vh;
+    height: 7vh;
+
+}
+
+.Titulo {
+
+    text-align: center;
+    color: #EAE0D5;
+    padding-bottom: 3vh;
+}
+
+section div {
+    text-align: center;
+    color: #EAE0D5;
+}
+
+section h1 {
+
+    font-size: 3vh;
+}
+
+section img {
+    width: 200vh;
+    height: 35vh;
+    object-fit: cover;
+    background-repeat: repeat;
+
+
+}
+
+
+.aling-text {
+
+    display: inline-block;
+    text-align: center;
+    padding: 5vh 5vh;
+    vertical-align: top;
+
+
+
+}
+
+.aling-text p {
+    color: #EAE0D5;
+    font-size: 4vh;
+    width: -10vh;
+    width: 70vh;
+    height: 25vh;
+    position: relative;
+}
+
+.aling-text img {
+
+    width: 50vh;
+    height: 50vh;
+    object-fit: cover;
+    border-radius: 2vh;
+    vertical-align: middle;
+}
+
+main {
+    padding: 3vh 20vh;
+    min-height: 80vh;
+}
+
+.sectionAboutus div {
+
+    display: block;
+}
+
+.firstphoto {
+
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 3vh;
+
+}
+
+.firstphoto p {
+    width: 50vh;
+    height: 30vh;
+    object-fit: cover;
+    border-radius: 2vh;
+
+}
+
+.firstphoto img {
+    width: 25vh;
+    height: 25vh;
+    object-fit: cover;
+    border-radius: 2vh;
+
+}
+
+.secondphoto {
+
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 3vh;
+}
+
+.secondphoto p {
+
+    width: 50vh;
+    height: 30vh;
+    object-fit: cover;
+    border-radius: 2vh;
+}
+
+.secondphoto img {
+
+    width: 25vh;
+    height: 25vh;
+    object-fit: cover;
+    border-radius: 2vh;
+}
+
+.thirdphoto {
+
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 3vh;
+}
+
+.thirdphoto p {
+
+    width: 50vh;
+    height: 30vh;
+    object-fit: cover;
+    border-radius: 2vh;
+}
+
+
+.thirdphoto img {
+
+    width: 25vh;
+    height: 25vh;
+    object-fit: cover;
+    border-radius: 2vh;
+}
+
+.contact {
+    text-align: center;
+
+
+}
+
+.contact img {
+
+    width: 50vh;
+    height: 50vh;
+    object-fit: cover;
+    padding: 5vh;
+    border-radius: 8vh;
+}
+
+.contact p {
+
+    font-size: 3vh;
+    color: #EAE0D5;
+    width: 150vh;
+    height: 20vh;
+}
+
+.contact1 {
+    text-align: center;
+    font-size: 3vh;
+
+}
+
+.mail-phone {
+
+    display: inline-block;
+    padding: 0vh 15vh;
+
+}
+.mail-phone a{
+text-decoration: none;
+color: #EAE0D5;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.mail-phone a:hover{
+
+    color: black;
+}
+
+
+
+
+footer {
+    background-color: #D2B48C;
+    text-align: center;
+    height: 7vh;
+    width: 200vh;
+}
+
+h3 {
+    padding-top: 2vh;
+
+}
